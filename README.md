@@ -1,4 +1,4 @@
-# EpigenomicsPromoterBioconductor
+# Bioconductor_EpigenomicsPromoter
 Context: I wrote the R script named 'HW2.R' for the second assignment of the Coursera course entitled 'Bioconductor for Genomic Data Science'.
 
 About:
